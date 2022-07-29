@@ -1,7 +1,7 @@
 # Bitcoin-ML-Project
 
 ## Intro
-This was one of my first big personal projects involving data science and analysis in Python. The goal of this analysis was to see how other currencies  and materials affected the price of Bitcoin, and then run some popular machine learning algorithms to try and predict when Bitcoin prices will rise or fall. Bitcoin is known to be very unpredictable and non-reliant on other currencies or stock market values, which made this project a big challenge for me. Analysis was done using Python and heavily relied on the pandas and scikit-learn packages, and all code was developed in a Jupyter Notebook.
+This was one of my first big personal projects involving data science and analysis in Python. The goal of this analysis was to see how other currencies  and materials affected the price of Bitcoin, and then run some popular machine learning algorithms to try and predict when Bitcoin prices will rise or fall. Bitcoin is known to be very unpredictable and non-reliant on other currencies or stock market values, which made this project a big challenge for me. Analysis was done using Python and heavily relied on the pandas and scikit-learn packages, and all code was developed in a Jupyter Notebook. Source code and more in-depth notes about the process can be found in the main project folder at BTC_ML_Project.ipynb
 
 ## Variables
 Variables used to predict Bitcoin price changes include several currencies' value against the US Dollar including the Canadian dollar, Euro, Swiss Franc, British Pound, and Yen; additionally, price change in oil, gold, and the S&P 500. 
